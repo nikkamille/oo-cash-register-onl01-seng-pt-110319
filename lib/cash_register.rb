@@ -1,6 +1,9 @@
 class CashRegister
   
-  attr_reader :
+  attr_reader :total 
+  
+  def initialize
+    
   
   
 end
